@@ -12,7 +12,7 @@ const TagsMetadataUtils = require('./utils/tags');
 const replaceExpires = require('./utils/expires');
 const filterKeyValidatorFactory = require('./utils/validateFilterKey');
 
-const HOSTLISTS_URL = 'https://adguardteam.github.io/HostlistsRegistry/assets';
+const HOSTLISTS_URL = 'https://hostlistsregistry.adguardprivate.com/assets';
 
 const CONFIGURATION_FILE = 'configuration.json';
 const REVISION_FILE = 'revision.json';

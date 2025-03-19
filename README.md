@@ -14,8 +14,8 @@ Some of these blocklists are automatically [converted](https://github.com/Adguar
 
 ## <a id="published"></a> Where Blocklists Are Published
 
-- [`filters.json`](https://adguardteam.github.io/HostlistsRegistry/assets/filters.json) contains all the blocklists added to the repo. `downloadURL` is the location of the re-hosted blocklist.
-- [`services.json`](https://adguardteam.github.io/HostlistsRegistry/assets/services.json) is the meta-data of "Web Services". This is a part of the parental control functionality of AdGuard Home and AdGuard DNS.
+- [`filters.json`](https://hostlistsregistry.adguardprivate.com/assets/filters.json) contains all the blocklists added to the repo. `downloadURL` is the location of the re-hosted blocklist.
+- [`services.json`](https://hostlistsregistry.adguardprivate.com/assets/services.json) is the meta-data of "Web Services". This is a part of the parental control functionality of AdGuard Home and AdGuard DNS.
 
 ## <a id="what-blocklists"></a> What Blocklists Can Be Added Here
 
@@ -205,14 +205,14 @@ SVG icon requirements:
 
 ## <a id="safe-search"></a> Safe Search Filters
 
-- [`engines_safe_search.txt`](https://adguardteam.github.io/HostlistsRegistry/assets/engines_safe_search.txt) contains a set of rules to enforce Safe Search in the following searching engines:
+- [`engines_safe_search.txt`](https://hostlistsregistry.adguardprivate.com/assets/engines_safe_search.txt) contains a set of rules to enforce Safe Search in the following searching engines:
   - Bing
   - DuckDuckGo
   - Google
   - Pixabay
   - Yandex
 
-- [`youtube_safe_search.txt`](https://adguardteam.github.io/HostlistsRegistry/assets/youtube_safe_search.txt) contains a set of rules to enforce Safe Search and hide comments on YouTube.
+- [`youtube_safe_search.txt`](https://hostlistsregistry.adguardprivate.com/assets/youtube_safe_search.txt) contains a set of rules to enforce Safe Search and hide comments on YouTube.
 
 ## <a id="how-to-build"></a> How to Build
 

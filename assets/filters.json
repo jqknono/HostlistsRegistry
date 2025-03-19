@@ -15,7 +15,7 @@
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
 			"timeUpdated": "2025-03-19T06:08:51+0000"
@@ -35,7 +35,7 @@
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_24.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
 			"timeAdded": "2021-12-21T10:31:18+0000",
 			"timeUpdated": "2025-03-15T14:05:58+0000"
@@ -55,7 +55,7 @@
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
 			"timeUpdated": "2025-03-19T07:06:26+0000"
@@ -75,7 +75,7 @@
 			"homepage": "https://github.com/StevenBlack/hosts",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_33.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
 			"timeAdded": "2022-08-17T13:43:25+0000",
 			"timeUpdated": "2025-03-17T17:05:57+0000"
@@ -95,7 +95,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_34.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": "2023-07-14T12:53:26+0000",
 			"timeUpdated": "2025-03-19T05:06:26+0000"
@@ -115,7 +115,7 @@
 			"homepage": "https://pgl.yoyo.org/adservers/",
 			"expires": 345600,
 			"displayNumber": 3,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_3.txt",
 			"subscriptionUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
 			"timeAdded": "2021-12-21T10:31:18+0000",
 			"timeUpdated": "2025-03-14T12:09:46+0000"
@@ -135,7 +135,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_48.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
 			"timeAdded": "2023-09-18T16:43:30+0000",
 			"timeUpdated": "2025-03-19T05:06:29+0000"
@@ -155,7 +155,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_49.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"timeAdded": "2023-09-18T16:53:47+0000",
 			"timeUpdated": "2025-03-19T05:06:31+0000"
@@ -175,7 +175,7 @@
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
 			"timeUpdated": "2025-02-25T13:15:57+0000"
@@ -195,7 +195,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_51.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
 			"timeAdded": "2023-10-13T16:27:45+0000",
 			"timeUpdated": "2025-03-19T05:06:35+0000"
@@ -215,7 +215,7 @@
 			"homepage": "https://awavenue.top/",
 			"expires": 1296000,
 			"displayNumber": 2,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_53.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
 			"timeAdded": "2023-11-07T15:20:33+0000",
 			"timeUpdated": "2025-03-17T08:08:57+0000"
@@ -235,7 +235,7 @@
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_59.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
 			"timeAdded": "2024-04-02T17:46:52+0000",
 			"timeUpdated": "2025-03-10T18:07:31+0000"
@@ -255,7 +255,7 @@
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
 			"timeUpdated": "2025-03-19T06:09:09+0000"
@@ -275,7 +275,7 @@
 			"homepage": "https://github.com/nickspaargaren/no-google",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_37.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt",
 			"timeAdded": "2022-11-09T09:43:37+0000",
 			"timeUpdated": "2025-02-25T13:16:04+0000"
@@ -295,7 +295,7 @@
 			"homepage": "https://github.com/DandelionSprout/adfilt",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_39.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt",
 			"timeAdded": "2023-03-24T15:10:23+0000",
 			"timeUpdated": "2025-02-27T13:11:13+0000"
@@ -315,7 +315,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists#referral",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_45.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt",
 			"timeAdded": "2023-08-16T15:55:29+0000",
 			"timeUpdated": "2025-02-27T04:07:42+0000"
@@ -335,7 +335,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists#piracy",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_46.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt",
 			"timeAdded": "2023-08-16T16:55:47+0000",
 			"timeUpdated": "2025-03-19T05:06:39+0000"
@@ -355,7 +355,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists#gambling",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_47.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 			"timeAdded": "2023-08-16T23:23:33+0000",
 			"timeUpdated": "2025-03-19T05:06:39+0000"
@@ -375,7 +375,7 @@
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_57.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating",
 			"timeAdded": "2024-03-27T17:19:18+0000",
 			"timeUpdated": "2025-03-19T06:09:17+0000"
@@ -395,7 +395,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_60.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt",
 			"timeAdded": "2024-06-18T15:01:28+0000",
 			"timeUpdated": "2025-03-12T08:08:34+0000"
@@ -415,7 +415,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_61.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
 			"timeAdded": "2024-10-07T15:50:22+0000",
 			"timeUpdated": "2025-03-13T19:05:56+0000"
@@ -435,7 +435,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_63.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"timeAdded": "2024-10-09T17:03:02+0000",
 			"timeUpdated": "2025-03-14T06:08:51+0000"
@@ -455,7 +455,7 @@
 			"homepage": "https://github.com/DandelionSprout/adfilt",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_6.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:11+0000"
@@ -475,7 +475,7 @@
 			"homepage": "https://github.com/Perflyst/PiHoleBlocklist",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_7.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:11+0000"
@@ -496,7 +496,7 @@
 			"homepage": "https://github.com/DandelionSprout/adfilt",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_13.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_13.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-02T20:06:15+0000"
@@ -517,7 +517,7 @@
 			"homepage": "https://www.certyficate.it/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_14.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:11+0000"
@@ -538,7 +538,7 @@
 			"homepage": "https://github.com/yous/YousList",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_15.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:11+0000"
@@ -559,7 +559,7 @@
 			"homepage": "http://abpvn.com/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_16.txt",
 			"subscriptionUrl": "https://abpvn.com/android/abpvn.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-18T17:06:13+0000"
@@ -580,7 +580,7 @@
 			"homepage": "https://github.com/lassekongo83/Frellwits-filter-lists/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_17.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-19T05:06:47+0000"
@@ -601,7 +601,7 @@
 			"homepage": "https://github.com/MasterKia/PersianBlocker",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_19.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-17T03:17:32+0000"
@@ -622,7 +622,7 @@
 			"homepage": "https://github.com/cchevy/macedonian-pi-hole-blocklist",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_20.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:14+0000"
@@ -643,7 +643,7 @@
 			"homepage": "https://anti-ad.net/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_21.txt",
 			"subscriptionUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-16T19:05:43+0000"
@@ -664,7 +664,7 @@
 			"homepage": "https://github.com/ABPindo/indonesianadblockrules",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_22.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-16T15:05:41+0000"
@@ -685,7 +685,7 @@
 			"homepage": "https://github.com/List-KR/List-KR",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_25.txt",
 			"subscriptionUrl": "https://github.com/List-KR/List-KR",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-11T01:34:21+0000"
@@ -706,7 +706,7 @@
 			"homepage": "https://github.com/bkrucarci/turk-adlist",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_26.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:16+0000"
@@ -727,7 +727,7 @@
 			"homepage": "https://github.com/Cats-Team/AdRules",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_29.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-19T00:27:16+0000"
@@ -748,7 +748,7 @@
 			"homepage": "https://github.com/hufilter/hufilter",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_35.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:17+0000"
@@ -769,7 +769,7 @@
 			"homepage": "https://github.com/EasyList-Lithuania/easylist_lithuania",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_36.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/EasyListLithuaniaHosts.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:17+0000"
@@ -790,7 +790,7 @@
 			"homepage": "https://github.com/symbuzzer/Turkish-Ad-Hosts",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_40.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/adguard/filter.txt",
 			"timeAdded": "2023-02-17T15:23:07+0000",
 			"timeUpdated": "2025-02-25T13:16:17+0000"
@@ -811,7 +811,7 @@
 			"homepage": "https://cert.pl/posts/2020/03/ostrzezenia_phishing/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_41.txt",
 			"subscriptionUrl": "https://hole.cert.pl/domains/v2/domains_adblock.txt",
 			"timeAdded": "2023-03-07T15:01:58+0000",
 			"timeUpdated": "2025-03-19T07:06:53+0000"
@@ -832,7 +832,7 @@
 			"homepage": "https://github.com/easylist/EasyListHebrew",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_43.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/hosts.txt",
 			"timeAdded": "2023-06-09T21:56:42+0000",
 			"timeUpdated": "2025-03-06T11:28:35+0000"
@@ -852,7 +852,7 @@
 			"homepage": "https://github.com/braveinnovators/ukrainian-security-filter",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_62.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt",
 			"timeAdded": "2024-10-09T10:45:16+0000",
 			"timeUpdated": "2025-02-25T13:16:20+0000"
@@ -872,7 +872,7 @@
 			"homepage": "https://github.com/durablenapkin/scamblocklist",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_10.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-19T05:06:52+0000"
@@ -892,7 +892,7 @@
 			"homepage": "https://urlhaus.abuse.ch/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_11.txt",
 			"subscriptionUrl": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-19T01:34:28+0000"
@@ -912,7 +912,7 @@
 			"homepage": "https://github.com/DandelionSprout/adfilt",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_12.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-16T19:05:49+0000"
@@ -932,7 +932,7 @@
 			"homepage": "https://phishing.army/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_18.txt",
 			"subscriptionUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": "2023-07-19T22:24:59+0000",
 			"timeUpdated": "2025-03-19T06:09:28+0000"
@@ -952,7 +952,7 @@
 			"homepage": "https://gitlab.com/malware-filter/phishing-filter",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_30.txt",
 			"subscriptionUrl": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-19T01:34:31+0000"
@@ -972,7 +972,7 @@
 			"homepage": "https://github.com/AssoEchap/stalkerware-indicators",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_31.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
 			"timeAdded": "2022-08-17T13:43:25+0000",
 			"timeUpdated": "2025-02-25T13:16:24+0000"
@@ -992,7 +992,7 @@
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_42.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": "2023-04-13T15:39:05+0000",
 			"timeUpdated": "2025-03-19T00:27:23+0000"
@@ -1012,7 +1012,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_44.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"timeAdded": "2023-08-16T11:51:09+0000",
 			"timeUpdated": "2025-03-19T05:06:56+0000"
@@ -1032,7 +1032,7 @@
 			"homepage": "https://github.com/uBlockOrigin/uAssets",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_50.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
 			"timeAdded": "2023-09-19T17:39:07+0000",
 			"timeUpdated": "2025-03-18T17:06:37+0000"
@@ -1052,7 +1052,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists#bypass",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_52.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
 			"timeAdded": "2023-10-25T11:19:42+0000",
 			"timeUpdated": "2025-03-19T05:07:05+0000"
@@ -1072,7 +1072,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_54.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
 			"timeAdded": "2023-12-21T18:21:57+0000",
 			"timeUpdated": "2025-03-17T05:07:28+0000"
@@ -1092,7 +1092,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_55.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
 			"timeAdded": "2024-03-13T16:43:33+0000",
 			"timeUpdated": "2025-03-18T05:07:24+0000"
@@ -1112,7 +1112,7 @@
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_56.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
 			"timeAdded": "2024-03-13T16:54:56+0000",
 			"timeUpdated": "2025-03-19T05:07:05+0000"
@@ -1132,7 +1132,7 @@
 			"homepage": "https://github.com/hoshsadiq/adblock-nocoin-list/",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_8.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-03-06T11:28:48+0000"
@@ -1152,7 +1152,7 @@
 			"homepage": "https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites",
 			"expires": 345600,
 			"displayNumber": 4,
-			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt",
+			"downloadUrl": "https://hostlistsregistry.adguardprivate.com/assets/filter_9.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
 			"timeAdded": "2021-06-02T13:09:03+0000",
 			"timeUpdated": "2025-02-25T13:16:34+0000"
