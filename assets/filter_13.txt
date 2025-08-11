@@ -1,13 +1,14 @@
 !
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (DNS filtering in AdGuard Home, AdGuard for Android, and AdGuard for Windows)
-! Version: 1.0.14.56
+! Version: 1.0.14.68
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2025-03-02T20:06:15.469Z
+! Last modified: 2025-08-09T23:08:00.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||102.112.2o7.net^
+||195-242-152-122.static.hvvc.us^
 ||24-news.online^
 ||5e529.v.fwmrm.net^
 ||790northsierrabonita.com^
@@ -117,6 +118,7 @@
 ||annonseweb.s3-eu-west-1.amazonaws.com^
 ||app-netfiix.com^
 ||app.pulsmedia.is^
+||appearspacex.de^
 ||arnasynir.tac.is^
 ||artmusic.dk^
 ||asoloskonorge.com^
@@ -153,6 +155,7 @@
 ||brunateskonorge.com^
 ||businessonline-webchat.com^
 ||byra-altinn.com^
+||bytelab.dk^
 ||ca-srvpayment.com^
 ||campbell-living.com^
 ||camperskonorge.com^
@@ -169,6 +172,7 @@
 ||clarksskonorge.com^
 ||clientnetflixcenter.com^
 ||cluster.chart.dk^
+||cncpt.dk^
 ||co-accountswitch.com^
 ||co-switchaccount.com^
 ||collector.schibsted.io^
@@ -201,6 +205,7 @@
 ||dnnbcorporat.mine.nu^
 ||dnnbcorporate.mine.nu^
 ||dnnbcorporates.mine.nu^
+||dnnstream.tns-cs.net^
 ||dotbanner.dk^
 ||dplus-pixar.com^
 ||drakternorge.com^
@@ -256,6 +261,7 @@
 ||godtdsamaritansk.com^
 ||gogle.net^
 ||gsport.com^
+||gtm.findroommate.dk^
 ||gymshark-danmarkudsalg.com^
 ||gymshark-no.com^
 ||gymshark-norgesalg.com^
@@ -282,6 +288,7 @@
 ||haglofstilbud.com^
 ||havfruen4220.dk^
 ||hcliips.com^
+||healtheweb.co.uk^
 ||heartbeat.airserve.net^
 ||helpnet-device.com^
 ||helsehjelp.over-blog.com^
@@ -382,6 +389,7 @@
 ||mobilpay-fi.com^
 ||mobiltrygheden.com^
 ||mobilunderskriv.com^
+||modificationdesignate.com^
 ||monclernorges.com^
 ||montec-danmark.com^
 ||montecnorge.com^
@@ -397,6 +405,7 @@
 ||myaccount-billing-details.com^
 ||myaccountneftlixssl1.com^
 ||mycraftypad.com^
+||mygoodmerch.com^
 ||myups-pakket.com^
 ||myups.express^
 ||myupsdelivery-ssl1.com^
@@ -416,6 +425,7 @@
 ||ney-acc.com^
 ||nflix-management.com^
 ||nflix-reactivacion.com^
+||nichehuset.dk^
 ||niupaiba.com^
 ||no-aut.co^
 ||no-bekreft.com^
@@ -461,6 +471,7 @@
 ||off-whitenorge.com^
 ||offerleads.club^
 ||oflike.com^
+||old.sermitsiaq.ag^
 ||onetime-bonus.com^
 ||online-connection-review.com^
 ||onlinehelpcenetre.com^
@@ -481,9 +492,11 @@
 ||pay-ticket2024.com^
 ||payement-renew.me^
 ||paynow-ticket.com^
+||pearlandcarpetcleaner.com^
 ||pensjonistferie.no^
 ||pestseminars.com^
 ||pjs.outlet.com^
+||plausible.webfokus.no^
 ||pliing.com^
 ||pluto.mobilen.no^
 ||popeurope.com^
@@ -515,6 +528,7 @@
 ||ri-myorder.com^
 ||rigspolitiet.com^
 ||rnbinance.com^
+||robot.ekstrabladet.dk^
 ||rumendia.com^
 ||s.api.no^
 ||saaq-click.com^
@@ -560,6 +574,7 @@
 ||smsb.co^
 ||sobrilleverandoridanmark.wordpress.com^
 ||sociale-assurance.com^
+||spania.no^
 ||speedcrossnettbutikk.com^
 ||spotfy-regulation.com^
 ||srilanka.no^
@@ -575,6 +590,7 @@
 ||static.itrack.it^
 ||static.onads.dk^
 ||stcontent.net^
+||step.dk^
 ||storustovu.dk^
 ||sundhed-einfoportal.com^
 ||sundhed-tjek.com^
@@ -629,7 +645,6 @@
 ||verification-no.com^
 ||vevlysingar.fo^
 ||vevlysingar.shouthorn.com^
-||via.placeholder.com^
 ||vidcopa.me^
 ||videotool.fbg.dk^
 ||vmfodboldtoj.com^
@@ -649,16 +664,67 @@
 ||xeroshoesdanmark.com^
 ||xeroshoesdanmarks.com^
 ||xn--gymsharkklrnorge-3ob.com^
+||xss.my.id^
 ||y6.no^
 ||yttersiden.no^
-||bytelab.dk^
-||cncpt.dk^
-||gtm.findroommate.dk^
-||nichehuset.dk^
-||pearlandcarpetcleaner.com^
-||plausible.webfokus.no^
-||spania.no^
-||step.dk^
+||norgeposten.today^
+||norwayposten.today^
+||pakkeposten.today^
+||post-dk.cfd^
+||posten-track.today^
+||posten-tracker.today^
+||postendk.lol^
+||postendsk.lat^
+||postennorge.today^
+||postennorway.today^
+||postenpakke.today^
+||postenserve.today^
+||postenserves.today^
+||postenspor.today^
+||postentrack.today^
+||postentracks.today^
+||postnord-24.site^
+||postnord-eco.buzz^
+||postnord-eco.cfd^
+||postnord-eco.sbs^
+||postnord-eco.xyz^
+||postnord-update.help^
+||postnordse.asia^
+||sporposten.today^
+||nestnose.com^
+||inquisitivebed.info^
+||grandolo.wpenginepowered.com^
+||idportal.vercel.app^
+||kredinor-portal.netlify.app^
+||minskat-no.com^
+||mysecureaccess.wpenginepowered.com^
+||mysecurespace.wpenginepowered.com^
+||myskatteetaten.wpenginepowered.com^
+||nav-innlogging-portal.netlify.app^
+||netsecure.wpenginepowered.com^
+||netsecurenord.wpenginepowered.com^
+||nettsecure.wpenginepowered.com^
+||nordsecurenet.wpenginepowered.com^
+||norwegianautopaskonto.es^
+||noskatteetaten.wpenginepowered.com^
+||nyskatteetaten.wpenginepowered.com^
+||onlineseckonto.wpenginepowered.com^
+||onlinesecure.wpenginepowered.com^
+||securekonto.wpenginepowered.com^
+||securenetid.wpenginepowered.com^
+||securenetnord.wpenginepowered.com^
+||securenett.wpenginepowered.com^
+||securenettid.wpenginepowered.com^
+||securenettsid.wpengine.com^
+||securenoaccess.wpenginepowered.com^
+||sikkerkonto.wpenginepowered.com^
+||sikkerportalid.wpengine.com^
+||skatteetateneu.wpenginepowered.com^
+||skatteetatenno.com^
+||skatteetatenof.wpenginepowered.com^
+||skatteetatentax.com^
+||skattrefusjono.wpenginepowered.com^
+||updatesysteme.com^
 
 ||1.14.61.188^
 ||3.248.18.175^
@@ -697,11 +763,19 @@
 ||185.13.40.150^
 ||193.148.70.153^
 ||195.88.55.21^
+||195.242.152.122^
 ||196.196.230.76^
 ||212.27.60.108^
 ||193.143.1.45^
 ||193.143.1.214^
 ||193.143.1.217^
+||109.230.237.116^
+||147.93.63.211^
+||154.223.16.232^
+||43.100.125.58^
+||43.159.140.215^
+||43.162.119.45^
+||47.76.132.29^
 
 ||vg.no.$dnstype=~CNAME
 ||elkjop.no.$dnstype=~CNAME
@@ -769,6 +843,28 @@ norgestores.com^
 skobutikks.com^
 butikksoslo.com^
 ||no-oppdatere.
+||post-nord-levering.
+||post-nord-receiving.
+||posten-nno.
+||posten-tracks.
+||postenn-no.
+||postnord-all.
+||postnord-confirmation.
+||postnord-delay.
+||postnord-order-*
+||postnord-paket.
+||postnord-pay.
+||postnord-post.
+||postnord-se-delivery.
+||postnord-step.
+||postnord-step1.
+||postnord-tk.
+||postnord-tracks.
+||postnorde-swe.
+||postnordexpress.
+||postnordexpressdelivery-*
+||postnordspara.
+||postnorg-dk*
 
 ||annonse.*.no^
 ||ad.*.no^
@@ -804,5 +900,25 @@ butikksoslo.com^
 @@||stillingledig.*.no^
 @@||cas.ms^
 @@||admin-mcas.ms^
+@@||chart.dk^
+@@||vinkelvej12.dk^
+@@||haslundalsted.dk^
+@@||mettelindberg.dk^
+@@||nhn.dk^
+
+
+||tvs.telenor.net^$dnstype=AAAA
+||s3.eu-west-1.amazonaws.com^$dnstype=AAAA
+|toba.bankidapis.no|$dnstype=AAAA
+|stoeapp.no|$dnstype=AAAA
+|ws.snla-it.no|$dnstype=AAAA
+|app.eika.no|$dnstype=AAAA
+|www.eika.no|$dnstype=AAAA
+||nexus-websocket-a.intercom.io^$dnstype=AAAA
+||events.mapbox.com^$dnstype=AAAA
+||api.mapbox.com^$dnstype=AAAA
+||atb-prod.api.mittatb.no^$dnstype=AAAA
+||vdemedo2-android.mobile-messenger.intercom.com^$dnstype=AAAA
+|api.*.amplitude.com|$dnstype=AAAA
 
 ||if-a-large-hosts-file-contains-this-entry-then-it.uses-dandelion-sprouts-nordic-domains-as-a-source-list.data^

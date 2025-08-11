@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Xiaomi Tracker Blocklist
-! Description: Blocks Xiaomi native broadband tracker that track your activity.
-! Version: 1.0.14.73
+! Description: Blocks Xiaomi native broadband trackers that track your activity.
+! Version: 1.0.14.79
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2025-03-24T05:07:22.544Z
+! Last modified: 2025-08-09T01:36:07.414Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -75,11 +75,11 @@
 ||hot.browser.intl.miui.com^
 ||r.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
+||api.calendar.intl.miui.com^
 ||abroad.api.comm.intl.miui.com^
 ||api.competition.intl.miui.com^
 ||api.content.intl.miui.com^
 ||api.collect.data.intl.miui.com^
-||feedback.intl.miui.com^
 ||api.game.intl.miui.com^
 ||gtglobal.intl.miui.com^
 ||m.beehive.in.intl.miui.com^
@@ -158,6 +158,7 @@
 ||api.vip.miui.com^
 ||intl.up.w.xk.miui.com^
 ||traffic-media.co^
+||h4g3z1-native.xiaomi.web.app^
 ||ad.xiaomi.com^
 ||api.ads.xiaomi.com^
 ||tracker.ai.xiaomi.com^
@@ -262,7 +263,6 @@
 ||us.api.micloud.xiaomi.net^
 ||findapi.micloud.xiaomi.net^
 ||api.g.micloud.xiaomi.net^
-||galleryapi.micloud.xiaomi.net^
 ||statusapi.micloud.xiaomi.net^
 ||tv.app.migc.xiaomi.com^
 ||invoice.netroam.mihome.xiaomi.net^
@@ -314,6 +314,7 @@
 ||netcheck.pandora.xiaomi.com^
 ||ottl7-l2.pandora.xiaomi.com^
 ||media.pre.pandora.xiaomi.com^
+||redirect.pandora.xiaomi.com^
 ||rtmpott.pandora.xiaomi.com^
 ||bsp.sasdc.pandora.xiaomi.com^
 ||shop.pandora.xiaomi.com^
@@ -324,7 +325,6 @@
 ||tvboss.pandora.xiaomi.com^
 ||tvepg.pandora.xiaomi.com^
 ||upgrade.pandora.xiaomi.com^
-||user.pandora.xiaomi.com^
 ||w.pandora.xiaomi.com^
 ||sentry.pay.xiaomi.com^
 ||tj1.staging.pay.xiaomi.com^

@@ -1,12 +1,14 @@
 !
 ! Title: KOR: List-KR DNS
 ! Description: A DNS version of List-KR, a filter for websites in the Korean language
-! Version: 1.0.14.86
+! Version: 1.0.15.26
 ! Homepage: https://github.com/List-KR/List-KR
-! Last modified: 2025-03-11T01:34:21.576Z
+! Last modified: 2025-08-08T10:08:43.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||daro.so^
+||adrop.io^
 ||adgirl.yes24.com^
 ||ad.api.adwiser.kr^
 ||recoshopping.naver.com^
@@ -87,7 +89,6 @@
 ||api.botad.kr^
 ||adimg.cgv.co.kr^
 ||ad.cgv.co.kr^
-||veta.naver.com^
 ||naverpa-phinf.pstatic.net^
 ||ad2.mimint.co.kr^
 ||wwwads.seoul.co.kr^
@@ -218,11 +219,18 @@
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
+||ad.qanda.ai^
 ||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
 
+||dnzedhceh7nim.cloudfront.net^
+||appmon.shinhan.com^
+||ads.ahnlab.com^
+||adpacker.net^
+||ad.yna.co.kr^
+||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
 ||mobon.net^

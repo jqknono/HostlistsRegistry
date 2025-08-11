@@ -1,16 +1,19 @@
 !
 ! Title: HaGeZi's Badware Hoster Blocklist
 ! Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
-! Version: 1.0.15.80
+! Version: 1.0.17.42
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2025-04-08T04:09:26.924Z
+! Last modified: 2025-08-09T21:07:05.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||000a.de^
+||000free.us^
 ||000space.com^
 ||000webhost.com^
 ||000webhostapp.com^
+||000webhotapp.com^
+||00author.com^
 ||00band.com^
 ||00books.com^
 ||00cash.com^
@@ -20,7 +23,9 @@
 ||00freehost.com^
 ||00freeweb.com^
 ||00game.com^
+||00go.com^
 ||00home.com^
+||00it.com^
 ||00me.com^
 ||00movies.com^
 ||00page.com^
@@ -33,7 +38,9 @@
 ||00sports.com^
 ||00trek.com^
 ||00video.com^
+||00web.net^
 ||012webpages.com^
+||028426.com^
 ||07080900.xyz^
 ||0catch.com^
 ||0fees.net^
@@ -90,6 +97,7 @@
 ||204.at^
 ||20fr.com^
 ||20m.com^
+||20m.us^
 ||20megsfree.com^
 ||22web.net^
 ||22web.org^
@@ -113,9 +121,7 @@
 ||310.at^
 ||350.com^
 ||351.at^
-||365bbt.link^
 ||36f.de^
-||3blogger.com^
 ||3blogger.net^
 ||3dn.ru^
 ||3eeweb.com^
@@ -137,6 +143,7 @@
 ||530.at^
 ||59bloggers.com^
 ||5gbfree.com^
+||5mp.eu^
 ||5on.de^
 ||5oo.de^
 ||5v.pl^
@@ -197,7 +204,6 @@
 ||actoblog.com^
 ||admarketlocation.com^
 ||aed1.host^
-||aeonjp.shop^
 ||affiliatblogger.com^
 ||africafull.top^
 ||ag.gp^
@@ -208,8 +214,6 @@
 ||aioblogs.com^
 ||airground.club^
 ||airself.shop^
-||akgoj.cn^
-||akuanakmamah.de^
 ||al6.de^
 ||alavps.com^
 ||alboompro.com^
@@ -233,12 +237,9 @@
 ||anchor-blog.com^
 ||and-friends.de^
 ||and-you.de^
-||andharban.com^
-||andologin99.com^
 ||anfliegen.de^
 ||angelfire.com^
 ||angelinsblog.com^
-||annualhuman.shop^
 ||anschauen.in^
 ||anschiessen.de^
 ||answerblogs.com^
@@ -253,14 +254,17 @@
 ||arrangiert.de^
 ||articlesblogger.com^
 ||artsold.top^
+||arvandblog.ir^
 ||arwebo.com^
 ||asablo.jp^
+||asblog.ir^
 ||asia.cm^
 ||asia.gp^
 ||asiaal.shop^
-||asianhotel.shop^
+||asrblog.ir^
 ||at.cr^
 ||at.st^
+||atrinblog.ir^
 ||atsnx.com^
 ||atspace.biz^
 ||atspace.com^
@@ -277,7 +281,6 @@
 ||aw3.de^
 ||awardspace.biz^
 ||awardspace.com^
-||aweys.net^
 ||az.gp^
 ||azzablog.com^
 ||b.gp^
@@ -295,6 +298,7 @@
 ||bcbloggers.com^
 ||bcz.com^
 ||be.gp^
+||bearblog.dev^
 ||bearsfanteamshop.com^
 ||bebinmall.today^
 ||bedava-sitem.com^
@@ -325,6 +329,7 @@
 ||blackapplehost.com^
 ||blackblogs.org^
 ||blakelysboutique.shop^
+||blaogy.com^
 ||blazingblog.com^
 ||bleepblogs.com^
 ||bligblogging.com^
@@ -374,6 +379,7 @@
 ||blogator.net^
 ||blogblog.com^
 ||blogbright.net^
+||blogbus.com^
 ||blogcdn.com^
 ||blogchaat.com^
 ||blogcheese.com^
@@ -393,6 +399,7 @@
 ||blogdrive.com^
 ||blogdun.com^
 ||blogeasy.com^
+||bloger.cz^
 ||bloger.hr^
 ||blogerus.com^
 ||bloges.org^
@@ -471,7 +478,6 @@
 ||blogspace.fr^
 ||blogspirit.com^
 ||blogsport.de^
-||blogsport.eu^
 ||blogspot.ae^
 ||blogspot.al^
 ||blogspot.am^
@@ -485,6 +491,7 @@
 ||blogspot.cl^
 ||blogspot.cm^
 ||blogspot.co^
+||blogspot.com^
 ||blogspot.cz^
 ||blogspot.de^
 ||blogspot.dk^
@@ -506,7 +513,6 @@
 ||blogspot.lu^
 ||blogspot.md^
 ||blogspot.mk^
-||blogspot.mr^
 ||blogspot.mx^
 ||blogspot.my^
 ||blogspot.net^
@@ -559,7 +565,6 @@
 ||bookmark.com^
 ||bookspace.fr^
 ||booru.org^
-||boosterblog.com^
 ||boundpeter.shop^
 ||boutiqueond.shop^
 ||boxmail.biz^
@@ -573,7 +578,6 @@
 ||bravenet.com^
 ||bravepages.com^
 ||brazilbill.shop^
-||bridalgallerymaryville.com^
 ||bstyledstore.shop^
 ||bugs3.com^
 ||builderall.net^
@@ -600,7 +604,6 @@
 ||carookee.com^
 ||carrd.co^
 ||carrefourpro.com^
-||carsix.shop^
 ||case-id-100029850.com^
 ||cavandoragh.org^
 ||cba.pl^
@@ -608,7 +611,6 @@
 ||cellnovis.com^
 ||center.tl^
 ||centerblog.net^
-||cfm-id72049123.com^
 ||cfolks.pl^
 ||cfw.me^
 ||ch.gp^
@@ -658,11 +660,11 @@
 ||blogspot.co.nz^
 ||blogspot.co.uk^
 ||blogspot.co.za^
+||tripod.lycos.co.uk^
 ||thamboli.co.za^
 ||threembb.co.uk^
 ||ucoz.co.uk^
 ||webnode.co.uk^
-||codm-free.com^
 ||collectblogs.com^
 ||com.nu^
 ||adr.com.ua^
@@ -722,9 +724,7 @@
 ||coolpage.biz^
 ||corolain.ru^
 ||cowblog.fr^
-||128-199-7-137.cprapid.com^
-||208-115-225-138.cprapid.com^
-||3-89-181-9.cprapid.com^
+||cprapid.com^
 ||creablog.com^
 ||creacionblog.com^
 ||creamclothinginc.shop^
@@ -812,7 +812,6 @@
 ||dorabiamarketing.shop^
 ||dot.tk^
 ||doteyoueshop.shop^
-||downfall.shop^
 ||download.ac^
 ||download.sh^
 ||downloaden24.de^
@@ -832,6 +831,7 @@
 ||dvd.lc^
 ||dynamicboard.de^
 ||e.gp^
+||e-docssig.com^
 ||e-monsite.com^
 ||easy4blog.com^
 ||easyfreehosting.com^
@@ -841,10 +841,12 @@
 ||eblogmall.com^
 ||ebuykind.shop^
 ||ec.gp^
+||ecardalert.com^
 ||eclub.lv^
 ||ecomplanet.com^
 ||ecrater.com^
 ||editboard.com^
+||edoctransfer.com^
 ||edublogs.com^
 ||edublogs.org^
 ||educationalimpactblog.com^
@@ -860,7 +862,6 @@
 ||elbloglibre.com^
 ||elegantrosebridal.shop^
 ||elementfx.com^
-||eligiblecell.shop^
 ||elizabethsfashion.shop^
 ||emmasbowtique.shop^
 ||emoneysale.shop^
@@ -869,6 +870,7 @@
 ||english.lc^
 ||englishset.club^
 ||entekpartners.com^
+||enterprisedeliveries.com^
 ||envy.nu^
 ||eo3.de^
 ||blog.eonet.jp^
@@ -903,11 +905,11 @@
 ||event-redeem.com^
 ||events-games.com^
 ||evenweb.com^
+||ewp.live^
 ||exactpages.com^
 ||exblog.jp^
 ||excite.it^
 ||exocrew.com^
-||expensiveone.shop^
 ||exprimetoi.net^
 ||ez-sites.ws^
 ||ezblogz.com^
@@ -919,7 +921,6 @@
 ||fancyjsboutique.shop^
 ||fannielenterprises.shop^
 ||fantasyblog.fr^
-||fanwestdoll.best^
 ||fare-blog.com^
 ||fast-page.org^
 ||fasthoster.de^
@@ -941,7 +942,6 @@
 ||firearms.com^
 ||fireblogz.com^
 ||firm.nu^
-||fishevent.shop^
 ||fishmeet.shop^
 ||fitegirlsboutique.shop^
 ||fitnell.com^
@@ -997,6 +997,7 @@
 ||free.bg^
 ||free.cr^
 ||free.lc^
+||free.nf^
 ||free-blogz.com^
 ||free-forums.org^
 ||freeasphost.net^
@@ -1045,6 +1046,7 @@
 ||freewebtools.com^
 ||freewha.com^
 ||freezoka.net^
+||freightinternationalservices.com^
 ||frenchboard.com^
 ||freshmember.com^
 ||frewwebs.com^
@@ -1055,7 +1057,7 @@
 ||fun.gg^
 ||fun.pe^
 ||fun5.de^
-||funcurrent.top^
+||funsites.ro^
 ||fw.bz^
 ||fw.hu^
 ||fwscheckout.com^
@@ -1070,7 +1072,6 @@
 ||gearhost.com^
 ||gearhostpreview.com^
 ||genblogger.com^
-||genomehp.shop^
 ||georgiatwo.shop^
 ||gerentebr.com^
 ||get-blogging.com^
@@ -1078,10 +1079,12 @@
 ||getenjoyment.net^
 ||getresponsesite.com^
 ||gg123.vip^
+||gigarocket.net^
 ||gilde.in^
 ||gildenseite.de^
 ||girlsense.com^
 ||glifeblog.com^
+||glitch.me^
 ||goabroadblog.com^
 ||godaddysites.com^
 ||godfrance.club^
@@ -1116,7 +1119,6 @@
 ||guest.de^
 ||guide.lc^
 ||guzhibo.cn^
-||gymshark-france.fr^
 ||gymsharkitaliaofficial.it^
 ||gynoblog.com^
 ||h.gp^
@@ -1126,7 +1128,7 @@
 ||hase.in^
 ||hashnode.dev^
 ||hautetfort.com^
-||hefeicang.com^
+||healthyemployee.me^
 ||helioho.st^
 ||heliohost.us^
 ||hellospace.org^
@@ -1147,9 +1149,8 @@
 ||homepage-konstruktor.ru^
 ||homestead.com^
 ||hop.ru^
-||hormoud.best^
 ||host.sk^
-||hostami.me^
+||hostedforfree.com^
 ||hostfree.pw^
 ||hostingas.in^
 ||hostinger.de^
@@ -1165,6 +1166,8 @@
 ||hp.lc^
 ||hpage.com^
 ||hpage.de^
+||hr-organization.com^
+||hr-rewards.com^
 ||hst5.com^
 ||html-5.me^
 ||htmlpasta.com^
@@ -1172,9 +1175,11 @@
 ||hu.kg^
 ||huicopper.com^
 ||humor-blog.com^
+||humorme.info^
 ||hund.in^
 ||hundredtrue.shop^
 ||hupont.hu^
+||hyderabadadda.com^
 ||hyip.com^
 ||hyperphp.com^
 ||i.gp^
@@ -1198,6 +1203,7 @@
 ||image-perth.org^
 ||imblogs.net^
 ||imess.net^
+||imtokne.vip^
 ||in.gp^
 ||in24.de^
 ||inbox24.eu^
@@ -1225,6 +1231,7 @@
 ||internetsite.eu^
 ||internetworx.org^
 ||inube.com^
+||invoicenotices.com^
 ||ir.gp^
 ||is-alive.de^
 ||is-best.net^
@@ -1236,8 +1243,13 @@
 ||ist-ok.de^
 ||it.gg^
 ||it.gp^
+||it-security-group.com^
+||it-support-group.com^
 ||itgo.com^
 ||itheidiot.com^
+||itpatches.com^
+||itsafetyteam.com^
+||itsecuritymessage.com^
 ||ivasdesign.com^
 ||iwarp.com^
 ||iwopop.com^
@@ -1252,6 +1264,8 @@
 ||jcmemoryscan.com^
 ||jeun.fr^
 ||jiliblog.com^
+||jimdofree.com^
+||jimdosite.com^
 ||jixx.de^
 ||jixx.net^
 ||job.ec^
@@ -1259,7 +1273,6 @@
 ||joueb.com^
 ||jouwweb.nl^
 ||jp.gp^
-||jtexpressr.top^
 ||jtexpsers.cc^
 ||jtposts.cc^
 ||jts-blog.com^
@@ -1316,6 +1329,7 @@
 ||lima-city.de^
 ||link4blogs.com^
 ||links.lc^
+||list-mgmt.com^
 ||spaces.live.com^
 ||live-stream.eu^
 ||live2.de^
@@ -1331,6 +1345,7 @@
 ||look4blog.com^
 ||losblogos.com^
 ||loveslife.biz^
+||lovestoblog.com^
 ||lowescouponn.com^
 ||loxblog.com^
 ||lspmr.org^
@@ -1339,7 +1354,8 @@
 ||lucialpiazzale.com^
 ||luwebs.com^
 ||luzzati.com^
-||lydincentives.com^
+||tripod.lycos.de^
+||tripod.lycos.it^
 ||m.vu^
 ||ma.gp^
 ||ma-page.fr^
@@ -1360,18 +1376,16 @@
 ||mastertopforum.org^
 ||mdkblog.com^
 ||mdtwo.top^
+||mdwrite.net^
 ||me.gp^
 ||me.ly^
 ||mediafirex.icu^
 ||medianewsonline.com^
 ||mee.nu^
-||meelou.top^
 ||megabyet.net^
 ||meilleurforum.com^
 ||memoryislife.com^
 ||menstudent.shop^
-||merchats.com^
-||metplxx.com^
 ||mex.tl^
 ||mforos.com^
 ||miarroba.com^
@@ -1379,11 +1393,9 @@
 ||mihanblog.com^
 ||mindmix.ru^
 ||mindnmagick.com^
-||misoya.shop^
 ||mit-wenig-geld.de^
 ||mixh.jp^
 ||mizum.site^
-||mkexperiment.best^
 ||mobi.ps^
 ||mobinteg.com^
 ||mochahost.com^
@@ -1394,14 +1406,13 @@
 ||mp3.cr^
 ||mpeblog.com^
 ||muf.mobi^
+||muffblog.com^
 ||multiblog.com^
 ||musik.cx^
 ||musik.lc^
-||muskacademy.best^
 ||mw.hu^
 ||mx.gp^
 ||my.gp^
-||xzf.my.id^
 ||my-board.org^
 ||my-free.website^
 ||my-place.us^
@@ -1418,6 +1429,7 @@
 ||myblog.de^
 ||myblog.it^
 ||mybloglicious.com^
+||myblogvoice.com^
 ||mybluehost.me^
 ||mybluehostin.me^
 ||mybuzzblog.com^
@@ -1435,6 +1447,7 @@
 ||mypressonline.com^
 ||myspacecdn.com^
 ||mysteria.cz^
+||mystrikingly.com^
 ||mywebcommunity.org^
 ||n.gp^
 ||nabble.com^
@@ -1481,8 +1494,6 @@
 ||nstemp.com^
 ||nut.cc^
 ||nuvox.net^
-||nyanyash.ru^
-||nyashk.ru^
 ||nyccards.shop^
 ||nyccenter.shop^
 ||blogs.nytimes.com^
@@ -1495,7 +1506,6 @@
 ||officialcity.shop^
 ||officialsitebuilder.com^
 ||okdfhb.art^
-||oki-store.top^
 ||okis.ru^
 ||okistore.shop^
 ||omas.in^
@@ -1515,12 +1525,10 @@
 ||onlineweb.shop^
 ||onlinewebshop.net^
 ||only4u.eu^
-||ontheweb.nu^
+||onmbl.com^
 ||onwebbox.com^
 ||onzeblog.com^
 ||oooninja.com^
-||openinglook.shop^
-||opensea-claimnft.com^
 ||opisial.com^
 ||orangeusa.shop^
 ||orderedlinks.shop^
@@ -1551,10 +1559,10 @@
 ||paginawebgratis.es^
 ||pancake.run^
 ||panel-1.de^
-||parisgrocery.top^
 ||parknhost.com^
 ||parsiblog.com^
 ||party.lc^
+||payhip.com^
 ||pc.lc^
 ||pcbusiness.club^
 ||pcriot.com^
@@ -1582,6 +1590,7 @@
 ||pl.gp^
 ||pl-oferta-id2387942371.top^
 ||planet.tl^
+||plesk.page^
 ||pnsiayfas.net^
 ||podia.com^
 ||pointblog.net^
@@ -1595,6 +1604,7 @@
 ||postbit.com^
 ||posterous.com^
 ||power-heberg.com^
+||pp.ua^
 ||pressname.club^
 ||preview-domain.com^
 ||primetap.com^
@@ -1603,10 +1613,8 @@
 ||pro.vg^
 ||pro3.de^
 ||proboards.com^
-||prodepl.top^
 ||profis.info^
 ||profreehost.com^
-||proginfortrad.top^
 ||prohosts.org^
 ||prosite.com^
 ||prublogger.com^
@@ -1615,7 +1623,6 @@
 ||pt.gp^
 ||pt.kg^
 ||pun.pl^
-||pwttr.xyz^
 ||pytal.de^
 ||q.gp^
 ||q77.eu^
@@ -1628,9 +1635,7 @@
 ||r.gp^
 ||radiola.club^
 ||raidersfanteamshop.com^
-||rdtre.net^
 ||re2.de^
-||realscienceblogs.com^
 ||reblog.hu^
 ||recentblog.net^
 ||reco.ws^
@@ -1640,7 +1645,6 @@
 ||blogautore.repubblica.it^
 ||rest7.com^
 ||review-blogger.com^
-||revk.uk^
 ||rf.gd^
 ||rigala.net^
 ||rimmablog.com^
@@ -1660,7 +1664,6 @@
 ||rumahweb.org^
 ||runhosting.com^
 ||s.gp^
-||s4usf.com^
 ||sa.gp^
 ||citybios.sa.com^
 ||lifecycle.sa.com^
@@ -1678,7 +1681,8 @@
 ||se.gp^
 ||search.gp^
 ||sebipay.com^
-||secaraa.online^
+||securebankinggroup.com^
+||securebankinggroup.org^
 ||secureonline.store^
 ||seesaa.net^
 ||dcr.sehlat.io^
@@ -1737,6 +1741,7 @@
 ||snack-blog.com^
 ||snn.gr^
 ||social-networking.me^
+||socialsmp.com^
 ||solidwebhost.com^
 ||some-trade.com^
 ||somee.com^
@@ -1755,6 +1760,7 @@
 ||sport-pro.de^
 ||sportsontheweb.net^
 ||spruz.com^
+||square.site^
 ||square7.ch^
 ||srv1.org^
 ||ss-blog.jp^
@@ -1766,12 +1772,13 @@
 ||startertjes.nl^
 ||stormloader.com^
 ||stormpages.com^
+||studio.site^
 ||subdomain.de^
 ||suchtis.de^
 ||suomiblog.com^
 ||superforum.fr^
 ||superweb.ws^
-||support-rbs.digital^
+||surge.sh^
 ||sv.gp^
 ||sv-whatsapp.top^
 ||svsy.my^
@@ -1788,7 +1795,6 @@
 ||targetblogs.com^
 ||taselavmy.shop^
 ||tathamservice.com^
-||taxescosts.shop^
 ||tblogz.com^
 ||te4m.de^
 ||teacup.com^
@@ -1798,6 +1804,7 @@
 ||teamzonesports.com^
 ||tearosediner.net^
 ||techionblog.com^
+||technetbloggers.de^
 ||teenradio.shop^
 ||tehno-politen.ru^
 ||tek-blogs.com^
@@ -1830,7 +1837,9 @@
 ||therainblog.com^
 ||thezenweb.com^
 ||thisistap.com^
+||thoughtlanes.net^
 ||tianyablog.com^
+||ticketxking.com^
 ||tie.cl^
 ||tiiny.host^
 ||tilda.ws^
@@ -1851,14 +1860,11 @@
 ||total-blog.com^
 ||totalh.net^
 ||ftp.totallyanonymous.com^
-||tqhmu.cn^
 ||tr.gg^
 ||tr.gp^
-||track-app1e.live^
 ||trackfinanceworld.com^
 ||trend.in^
 ||trexgame.net^
-||triadw.top^
 ||tribalpages.com^
 ||tribunablog.com^
 ||tripod.com^
@@ -1927,6 +1933,8 @@
 ||vblogetin.com^
 ||vdxh.com^
 ||ve.gp^
+||vefblog.net^
+||verifypass.pw^
 ||veritafinancebank.com^
 ||verkniffen.de^
 ||verybigblog.com^
@@ -1945,12 +1953,11 @@
 ||voten.in^
 ||vpswala.org^
 ||vxub.com^
-||vxwezsp.cn^
 ||vz.lc^
+||w3spaces.com^
 ||wallinside.blog^
 ||wallinside.com^
 ||wallst.ru^
-||wantedland.shop^
 ||wapka.club^
 ||wapka.org^
 ||wapka.site^
@@ -1958,17 +1965,19 @@
 ||wapka.top^
 ||wapka.website^
 ||wapka.xyz^
-||waptrad.top^
 ||warhead.com^
 ||warp0.com^
 ||web.gg^
 ||web.pe^
+||h4g3z1-hoster.web.app^
 ||web-chat.eu^
 ||web-clan.de^
 ||web-log.nl^
 ||web1000.com^
 ||web1337.net^
 ||web4free.eu^
+||webaccess-alert.com^
+||webaccess-email.com^
 ||webadorsite.com^
 ||webatu.com^
 ||webblog24.de^
@@ -2034,7 +2043,7 @@
 ||website.org^
 ||website-home.ws^
 ||website2.me^
-||websitehostfree.com^
+||webspawner.com^
 ||webstarts.com^
 ||webwave.dev^
 ||webzdarma.cz^
@@ -2049,9 +2058,10 @@
 ||wiki.lc^
 ||will-dich.eu^
 ||win-blog.com^
-||web.core.windows.net^
 ||alerts.wisc.edu^
 ||wixsite.com^
+||wixstudio.com^
+||wixstudio.io^
 ||wizzardsblog.com^
 ||wopop.com^
 ||wordpress.de^
@@ -2078,8 +2088,6 @@
 ||xaper.com^
 ||xbl0g.com^
 ||xblog.in^
-||xbloggers.com^
-||xdiheu.cn^
 ||xinei.shop^
 ||xl.lc^
 ||xml.in^
@@ -2091,6 +2099,7 @@
 ||xrs.net^
 ||xsl.tel^
 ||xsltel.com^
+||xsph.ru^
 ||xtgem.com^
 ||xtreemhost.com^
 ||xuu.pl^
@@ -2101,7 +2110,6 @@
 ||y.gp^
 ||y0.pl^
 ||y55.eu^
-||yamagim.shop^
 ||yamanoha.com^
 ||ygrrvlvvgf.top^
 ||yi.org^
@@ -2131,10 +2139,12 @@
 ||zensurfrei.com^
 ||zepatifcommerce.shop^
 ||ziblogs.com^
-||zjxjmp.cn^
 ||zoekvinden.nl^
+||zohosites.com^
 ||zoomblog.com^
 ||zoomshare.com^
 ||zustimmen.de^
+||zwphosting.com^
 ||zx9.de^
 ||zymic.com^
+||zyrosite.com^

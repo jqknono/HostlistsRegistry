@@ -1,13 +1,13 @@
 !
 ! Title: HUN: Hufilter
 ! Description: The Hungarian Adblock List.
-! Version: 1.0.14.82
+! Version: 1.0.15.19
 ! Homepage: https://github.com/hufilter/hufilter
-! Last modified: 2025-02-25T13:16:17.714Z
+! Last modified: 2025-07-04T09:09:31.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-||widget.block4d.com^
+||adserver.raceonline.hu^
 ||a.adnium.com^
 ||ad.depo.hu^
 ||ad.gyermekevek.hu^
@@ -21,6 +21,7 @@
 ||ad.szexneked.hu^
 ||adfair.hu^
 ||adfree-stat.p3g.hu^
+||admanager.magyarhirlap.hu^
 ||ads.geeks.hu^
 ||adv.forpsi.hu^
 ||adv.hu^
@@ -38,6 +39,7 @@
 ||fourtwentytradingcompany.net^
 ||fruitflan.com^
 ||iofferphoto.com^
+||loader.nyitvatartas24.hu^
 ||loading-delivery2.com^
 ||media.netpositive.hu^
 ||netadclick.com^
@@ -54,11 +56,30 @@
 ||syndication.trafficreps.com^
 ||up-banner.wavecdn.de^
 ||vid4u.org^
-||wdtyl.xyz^
+||widget.block4d.com^
 ||wstat.ozon.ru^
 ||chatrobot.mia.gov.hu^
 ||chimpstatic.com^
+||adat.agrokep.vg.hu^
+||adat.borsonline.hu^
+||adat.figyelo.hu^
 ||adat.freemail.hu^
+||adat.hirtv.hu^
+||adat.ingatlanbazar.hu^
+||adat.kisalfold.hu^
+||adat.koponyeg.hu^
+||adat.life.hu^
+||adat.magyarnemzet.hu^
+||adat.mandiner.hu^
+||adat.metropol.hu^
+||adat.mindmegette.hu^
+||adat.nemzetisport.hu^
+||adat.origo.hu^
+||adat.ripost.hu^
+||adat.she.life.hu^
+||adat.vg.hu^
+||adat.videa.hu^
+||adform.net^
 ||adtrackeraa.com^
 ||beam-tracker.telex.hu^
 ||beam.telex.hu^
@@ -66,8 +87,22 @@
 ||doubleclick.net^
 ||gemius.hu^
 ||gemius.pl^
+||indexstat.index.hu^
+||mediaownerscloud.com^
 ||px.blog.hu^
 ||smartadserver.com^
+||tracker-remp.magyarnarancs.hu^
+||tracker.24xtra.hu^
 ||tracker.azet.sk^
+||trackerapi.ebxcdn.com^
 ||tracking.binarypromos.com^
 ||tracking.tchibo.hu^
+||aliexpress.hu^
+||aliexpressz.hu^
+||azsiacenter.hu^
+||azsiacentrum.hu^
+||kinaiwebaruhaz.hu^
+||maplin.hu^
+||mikroelektronik.hu^
+||petpoolalarm.com^
+||sexmeup.hu^
